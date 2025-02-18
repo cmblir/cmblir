@@ -36,6 +36,10 @@ MySQL was the first database I learned when I started studying queries.
 ## Software I Use Often
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,windows,linux)](https://skillicons.dev)
 
+### Data Pipeline
+<img src="https://github.com/user-attachments/assets/f585bbca-abb2-4c09-9ed4-5173de7c6c52" width="50" height="50">
+
+
 
 For development, I use VS Code for Python and IntelliJ for Java. When I need to make quick edits, I occasionally use Vim directly in the terminal.  
 primarily work in a Mac environment, but I find Linux to be more suitable for handling databases since it's similar to Mac.  
