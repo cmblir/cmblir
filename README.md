@@ -1,79 +1,100 @@
-## ✨ About Me
+<div align="center">
 
-Hi, I'm a Business Analyst at Delivery Hero (Woowa).
+# 👋 Hi, I'm a cmblir
 
-I specialize in analyzing rider and delivery data, improving customer service quality, and driving business decisions through data.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Data-Driven+Decision+Maker+%F0%9F%93%8A;Workflow+Automation+Enthusiast+%E2%9A%99%EF%B8%8F;Diving+into+Java+Backend+%E2%98%95;Solving+Problems+with+Elegant+Code+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-I'm passionate about automating workflows and building efficient systems that save time and scale effortlessly.
+<img src="https://user-images.githubusercontent.com/75519839/155270710-5bc7ecb5-9cc3-47ee-9cbf-3a0801c4f5f4.gif" width="320" />
 
-I enjoy learning new tools and technologies, and I'm currently diving deeper into Java backend development to enhance my technical versatility.
+</div>
 
-From scripting dashboards to designing data pipelines, I love solving complex problems with elegant solutions. 💡
-  
-<!--  ![nyan](https://user-images.githubusercontent.com/75519839/155043486-34a2e419-0e45-4023-ac88-4ded5cc55208.gif) -->
-  
-![image](https://user-images.githubusercontent.com/75519839/155270710-5bc7ecb5-9cc3-47ee-9cbf-3a0801c4f5f4.gif)
-  
-## Languages I've Worked In
+---
 
+## 🧑‍💻 About Me
+
+```yaml
+name: Business Analyst
+company: Delivery Hero (Woowa)
+focus:
+  - 🛵 Rider & delivery data analysis
+  - 📞 Customer service quality
+  - 📈 Data-driven business decisions
+passions:
+  - Automating workflows
+  - Building scalable systems
+  - Learning new technologies
+currently_learning: ☕ Java backend development
+motto: "From dashboards to data pipelines — solve complex problems elegantly."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,bash,powershell)](https://skillicons.dev)
 
-While I typically use PowerShell in the terminal, _I personally prefer Bash or zsh._
+> 🐚 I use **PowerShell** at work, but personally prefer **Bash / zsh**.
 
-## Library | Framework
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,selenium,flask,spring)](https://skillicons.dev)
+### 📚 Libraries & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,tensorflow,selenium,flask)](https://skillicons.dev)
 
-For web development, I work with Java and Spring, using IntelliJ as my development tool. 
+| Purpose | Stack |
+|---|---|
+| 🌐 Web Development | `Java` + `Spring` (with IntelliJ) |
+| 🤖 AI / ML | `Python` + `TensorFlow` |
+| 🕸️ Data Collection | `Selenium` |
+| 📊 Lightweight Visualization | `Flask` |
 
-For data analysis with AI, I prefer Python, leveraging TensorFlow for machine learning, and Selenium for data collection.  
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
-When I need to visualize data or create lightweight sites, I turn to Flask.
+| Use Case | Tool |
+|---|---|
+| 🚀 Large-scale Analysis | **Presto (Trino)** |
+| 🔎 Exploratory Querying | **Apache Hive** + **Zeppelin** |
+| 📡 Real-time Monitoring | **Prometheus** |
+| 🧪 Personal Projects | **PostgreSQL** / **SQLite** |
 
-## Database
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql)](https://skillicons.dev)
-<img src="https://github.com/user-attachments/assets/843d2370-4443-4d55-ad50-8582f3dc4d35" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/069026b5-5210-446d-9185-9d562c829bd2" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/3918fdc1-580e-46a1-a792-bed9fc533289" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/de5ec6c3-0353-433e-8ad0-26c989b3d1b8" width="50" height="50">
+### 🧰 Tools & Environment
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,linux,windows)](https://skillicons.dev)
 
-I primarily work with Presto (Trino) for large-scale data analysis, and utilize Apache Hive with Zeppelin for exploratory querying and reporting.
+- 🐧 **Linux-friendly** → macOS is my daily driver
+- 🪟 Comfortable with **Windows** in corporate environments
+- ✏️ **VS Code** for Python · **IntelliJ IDEA** & **DataGrip** for Java / data workflows
 
-For real-time monitoring and metrics collection, I rely on Prometheus, which integrates well with my workflow for time-series analysis and alerting.
+### 🤝 Collaboration & Marketing
+- 🗂️ **Jira** — project & task management
+- 💬 **Slack** — team communication
+- 📲 **Braze** — app push notifications & user engagement
 
-For personal projects or lightweight use cases, I opt for PostgreSQL or SQLite due to their simplicity and ease of setup.
+---
 
-## Software I Use Often
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,windows,linux)](https://skillicons.dev)
+## 📊 GitHub Stats
 
-### Data Pipeline
-<img src="https://github.com/user-attachments/assets/f585bbca-abb2-4c09-9ed4-5173de7c6c52" width="50" height="50">
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-I’m most comfortable working in Linux-based environments, which makes macOS my preferred platform for development.
+</div>
 
-That said, I’m also proficient with Windows, especially when aligning with corporate or localized development environments.
+> 💡 Replace `YOUR_USERNAME` above with your actual GitHub handle.
 
-For day-to-day work, I primarily use Python, so VS Code is my go-to editor.
+---
 
-When working with Java or managing complex data workflows, I turn to IntelliJ IDEA or DataGrip for a more robust development experience.
+## 📫 Connect with Me
 
-## Management / Marketing tool
+<div align="center">
 
-<img src="https://github.com/user-attachments/assets/8f4b5904-caef-4a29-a9d1-ba6477322012" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/ae6d3c21-a6fc-4147-aaec-1420593f81df" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/3d79276c-7530-43a2-8973-eda8bab0bb6d" width="50" height="50">
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 
-## Business Analytics tool
-<img src="https://github.com/user-attachments/assets/928c85de-c241-4eb4-9303-23febb1e9412" width="50" height="50"> 
-<img src="https://github.com/user-attachments/assets/311ceee0-deb1-41ca-9748-8174e78fa82b" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/1c486eae-6035-4faa-a58c-71241c917d29" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/58087485-4a1c-4266-a3e8-53da757a3ada" width="50" height="50">
+</div>
 
+<div align="center">
 
+⭐ *"Data tells stories — I just help translate them into decisions."* ⭐
 
-For team collaboration, I mainly used Jira and Slack.  
-To track user reactions and for marketing purposes, I worked with Braze for app push notifications.
-
-
-
-
+</div>
