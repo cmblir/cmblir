@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/3dbf201327...da825bcc06)
+- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/0bfef672f0...3dbf201327)
+- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/a519916392...0bfef672f0)
 - [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/a176e76e73...2eff127421)
 - [cmblir pushed cmblir.github.io](https://github.com/cmblir/cmblir.github.io/compare/1adb93867c...14c3f37002)
-- [cmblir pushed cmblir.github.io](https://github.com/cmblir/cmblir.github.io/compare/9772fc9eda...1adb93867c)
-- [cmblir deleted](https://github.com/cmblir/Memex/compare/d3da8e7498...0000000000)
-- [cmblir pushed cmblir.github.io](https://github.com/cmblir/cmblir.github.io/compare/9282a59dcd...9772fc9eda)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
