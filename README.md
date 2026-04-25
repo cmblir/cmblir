@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm a cmblir
+# 👋 Hi, I'm a Nicholas
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Data-Driven+Decision+Maker+%F0%9F%93%8A;Workflow+Automation+Enthusiast+%E2%9A%99%EF%B8%8F;Diving+into+Java+Backend+%E2%98%95;Solving+Problems+with+Elegant+Code+%F0%9F%92%A1)](https://git.io/typing-svg)
 
