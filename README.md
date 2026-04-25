@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/3dbf201327...da825bcc06)
-- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/0bfef672f0...3dbf201327)
-- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/a519916392...0bfef672f0)
-- [cmblir pushed cmblir](https://github.com/cmblir/cmblir/compare/a176e76e73...2eff127421)
-- [cmblir pushed cmblir.github.io](https://github.com/cmblir/cmblir.github.io/compare/1adb93867c...14c3f37002)
+- [feat&lpar;v2.33.0&rpar;: Artifacts Viewer — 4중 보안 워크플로우 출력 미리보기](https://github.com/cmblir/LazyClaude/releases/tag/v2.33.0)
+- [feat&lpar;v2.32.0&rpar;: MCP 서버 모드 — LazyClaude 를 Claude Code 에서 직접 호출](https://github.com/cmblir/LazyClaude/releases/tag/v2.32.0)
+- [feat&lpar;v2.31.0&rpar;: Security Scan 탭 — ECC AgentShield 흡수 &lpar;정적 휴리스틱&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.31.0)
+- [feat&lpar;v2.30.0&rpar;: Learner 탭 &lpar;B8&rpar; — 세션 패턴 추출, 통계 기반 자동 제안](https://github.com/cmblir/LazyClaude/releases/tag/v2.30.0)
+- [feat&lpar;v2.29.0&rpar;: Policy fallbackProvider + Event Forwarder 탭 &lpar;B7&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.29.0)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
