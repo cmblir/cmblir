@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # 6시간마다
+  workflow_dispatch:        # 수동 실행 버튼
   push:
     branches: [main]
 
@@ -14,20 +14,18 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://cmblir.github.io/feed.xml"
+          feed_list: "https://your-blog.dev/rss.xml"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
 
       - name: Pull latest GitHub releases
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://github.com/cmblir.atom"
+          feed_list: "https://github.com/YOUR_USERNAME.atom"
           max_post_count: 5
           comment_tag_name: "LATEST-RELEASES"
-          filter_routes: "$..[?(!@.link.match(/cmblir\\.github\\.io|github\\.com\\/cmblir\\/cmblir(\\b|$)/))]"
