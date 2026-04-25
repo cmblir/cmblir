@@ -26,6 +26,6 @@ jobs:
       - name: Pull latest GitHub releases
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://github.com/YOUR_USERNAME.atom"
+          feed_list: "https://github.com/cmblir/memex/releases.atom,https://github.com/cmblir/lazyclaude/releases.atom"
           max_post_count: 5
           comment_tag_name: "LATEST-RELEASES"
