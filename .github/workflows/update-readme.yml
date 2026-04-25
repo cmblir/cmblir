@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"  # 1시간마다 자동 실행
+  workflow_dispatch:        # GitHub UI에서 수동 실행 버튼
+  push:
+    branches: [main]        # main에 푸시할 때마다도 실행
+
+permissions:
+  contents: write           # README를 커밋하려면 필요
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://cmblir.github.io/feed.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+
+      - name: Pull latest GitHub releases
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://github.com/cmblir.atom"
+          max_post_count: 5
+          comment_tag_name: "LATEST-RELEASES"
