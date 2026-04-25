@@ -1,86 +1,72 @@
-<div align="center">
+### Hi, I'm Nicholas 👋
 
-# 👋 Hi, I'm a Nicholas
+I build things with code. Sometimes they're useful.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Data-Driven+Decision+Maker+%F0%9F%93%8A;Workflow+Automation+Enthusiast+%E2%9A%99%EF%B8%8F;Diving+into+Java+Backend+%E2%98%95;Solving+Problems+with+Elegant+Code+%F0%9F%92%A1)](https://git.io/typing-svg)
+🦄 Currently obsessed with backend systems and the unreasonable joy of well-designed APIs.
 
-<img src="https://user-images.githubusercontent.com/75519839/155270710-5bc7ecb5-9cc3-47ee-9cbf-3a0801c4f5f4.gif" width="320" />
-
-</div>
+I care about software that's **boring in the best way** — predictable, observable, and quietly correct. Most of my open source work lives at the intersection of backend services, data pipelines, and developer tooling. I've been writing code professionally for years, but I still get excited when a `git log` tells a clean story.
 
 ---
 
-## 🧑‍💻 About Me
+#### 🛠️ What I'm working on
 
-```yaml
-name: Business Analyst
-company: Delivery Hero (Woowa)
-focus:
-  - 🛵 Rider & delivery data analysis
-  - 📞 Customer service quality
-  - 📈 Data-driven business decisions
-passions:
-  - Automating workflows
-  - Building scalable systems
-  - Learning new technologies
-currently_learning: ☕ Java backend development
-motto: "From dashboards to data pipelines — solve complex problems elegantly."
-```
+- **Maintaining open source** — a few libraries in the Java and Python ecosystems, plus the occasional CLI when I get annoyed enough at an existing one
+- **Writing** — long-form posts about backend architecture, database internals, and why your microservice probably should have been a function
+- **Experimenting** — currently poking at LLM tooling, browser automation, and the strange new world of agentic workflows
+- **Mentoring** — reviewing PRs and answering "why is this slow" questions in a few communities
 
 ---
 
-## 🛠️ Tech Stack
+#### 🧰 Stack I reach for
 
-### 💬 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,bash,powershell)](https://skillicons.dev)
+I'm not religious about tools, but here's what's usually on my screen:
 
-> 🐚 I use **PowerShell** at work, but personally prefer **Bash / zsh**.
+- **Backend** — Java + Spring Boot for serious systems, Python + FastAPI for everything else
+- **Data** — PostgreSQL until it hurts, then Trino / Kafka / Redis as needed
+- **Infra** — Docker, Kubernetes, GitHub Actions for the glue
+- **Editor** — IntelliJ for JVM work, Neovim for everything else, terminal-first always
 
-### 📚 Libraries & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,tensorflow,selenium,flask)](https://skillicons.dev)
-
-| Purpose | Stack |
-|---|---|
-| 🌐 Web Development | `Java` + `Spring` (with IntelliJ) |
-| 🤖 AI / ML | `Python` + `TensorFlow` |
-| 🕸️ Data Collection | `Selenium` |
-| 📊 Lightweight Visualization | `Flask` |
-
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
-
-| Use Case | Tool |
-|---|---|
-| 🚀 Large-scale Analysis | **Presto (Trino)** |
-| 🔎 Exploratory Querying | **Apache Hive** + **Zeppelin** |
-| 📡 Real-time Monitoring | **Prometheus** |
-| 🧪 Personal Projects | **PostgreSQL** / **SQLite** |
-
-### 🧰 Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,idea,vim,linux,windows)](https://skillicons.dev)
-
-- 🐧 **Linux-friendly** → macOS is my daily driver
-- 🪟 Comfortable with **Windows** in corporate environments
-- ✏️ **VS Code** for Python · **IntelliJ IDEA** & **DataGrip** for Java / data workflows
-
-### 🤝 Collaboration & Marketing
-- 🗂️ **Jira** — project & task management
-- 💬 **Slack** — team communication
-- 📲 **Braze** — app push notifications & user engagement
+> The best stack is the one your team can debug at 3am.
 
 ---
 
-## 📫 Connect with Me
+#### 📚 Things I've learned the hard way
 
-<div align="center">
+- Logs are a feature. Treat them like one.
+- Most performance problems are N+1 queries wearing a trench coat.
+- If a function is hard to name, it's hard to maintain.
+- The cost of a wrong abstraction is higher than the cost of duplication.
+- Documentation written *during* the work is worth 10x documentation written after.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sodlalwl13@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sodlalwl14)
+---
 
-</div>
+#### 📦 Latest releases
+<!-- LATEST-RELEASES:START -->
+<!-- LATEST-RELEASES:END -->
 
-<div align="center">
+#### 📝 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-⭐ *"Data tells stories — I just help translate them into decisions."* ⭐
+#### 🌱 Currently reading & thinking about
 
-</div>
+- *Designing Data-Intensive Applications* — re-reading, because the second time hits different
+- The state of OpenTelemetry in production
+- How small teams can ship like big ones (and big teams can ship like small ones)
+
+---
+
+#### 💬 Get in touch
+
+I'm happy to talk about:
+
+- 🐛 Issues or PRs on any of my repos — that's the fastest way to my attention
+- 🎤 Talks, podcasts, or workshops on backend or open source
+- ☕ Random questions from people learning — seriously, ask
+- 🤝 Collaboration on tools that make developers' lives less annoying
+
+📬 [email](mailto:sodlalwl14@gmail.com) · 🔗 [linkedin](https://linkedin.com/in/sodlalwl14) · 🌐 [website](https://cmblir.github,io) · 🐦 [threads](https://www.threads.com/@cmblir.ai)
+
+---
+
+<sub>This README updates itself, mostly. The opinions update slower.</sub>
