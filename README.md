@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [feat&lpar;v2.33.0&rpar;: Artifacts Viewer — 4중 보안 워크플로우 출력 미리보기](https://github.com/cmblir/LazyClaude/releases/tag/v2.33.0)
-- [feat&lpar;v2.32.0&rpar;: MCP 서버 모드 — LazyClaude 를 Claude Code 에서 직접 호출](https://github.com/cmblir/LazyClaude/releases/tag/v2.32.0)
-- [feat&lpar;v2.31.0&rpar;: Security Scan 탭 — ECC AgentShield 흡수 &lpar;정적 휴리스틱&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.31.0)
-- [feat&lpar;v2.30.0&rpar;: Learner 탭 &lpar;B8&rpar; — 세션 패턴 추출, 통계 기반 자동 제안](https://github.com/cmblir/LazyClaude/releases/tag/v2.30.0)
-- [feat&lpar;v2.29.0&rpar;: Policy fallbackProvider + Event Forwarder 탭 &lpar;B7&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.29.0)
+- [cmblir released v2.34.2 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.34.2)
+- [cmblir released v2.34.1 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.34.1)
+- [cmblir released v2.34.0 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.34.0)
+- [cmblir released v0.1.0 at cmblir/Memex](https://github.com/cmblir/Memex/releases/tag/v0.1.0)
+- [cmblir pushed Memex](https://github.com/cmblir/Memex/compare/e91b109902...283fda04c8)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
