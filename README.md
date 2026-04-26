@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [v2.34.2 — EN / ZH translations for v2.34 features](https://github.com/cmblir/LazyClaude/releases/tag/v2.34.2)
-- [v2.34.1 — Mobile sidebar backdrop + n8n-style palette + wizard guide](https://github.com/cmblir/LazyClaude/releases/tag/v2.34.1)
-- [v2.34.0 — Crew Wizard + Slack approval + Obsidian logging](https://github.com/cmblir/LazyClaude/releases/tag/v2.34.0)
-- [Memex v0.1.0 — rebrand release](https://github.com/cmblir/Memex/releases/tag/v0.1.0)
-- [feat&lpar;v2.33.0&rpar;: Artifacts Viewer — 4중 보안 워크플로우 출력 미리보기](https://github.com/cmblir/LazyClaude/releases/tag/v2.33.0)
+- [cmblir released v2.36.3 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.3)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/ff61367d61...f4c7783f35)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/ef76b02818...ff61367d61)
+- [cmblir released v2.36.2 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.2)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/e6ef4734be...ef76b02818)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
