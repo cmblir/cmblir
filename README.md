@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [v2.36.3 — Project snapshot modal scroll fix](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.3)
-- [v2.36.2 — Server-restart detector &lpar;auto-banner for stale builds&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.2)
-- [v2.36.1 — Run Center ECC discovery hotfix + OMC/OMX guide cards](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.1)
-- [v2.36.0 — Run Center + Workflow Quick Actions + Commands Run buttons](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.0)
-- [v2.35.1 — i18n hotfix &lpar;18 missing EN/ZH translations&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.35.1)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/f4c7783f35...d6dc444dfc)
+- [cmblir released v2.36.3 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.3)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/ff61367d61...f4c7783f35)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/ef76b02818...ff61367d61)
+- [cmblir released v2.36.2 at cmblir/LazyClaude](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.2)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
