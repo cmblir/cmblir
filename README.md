@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [v2.39.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.39.0)
-- [v2.38.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.38.0)
-- [v2.36.3 — Project snapshot modal scroll fix](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.3)
-- [v2.36.2 — Server-restart detector &lpar;auto-banner for stale builds&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.2)
-- [v2.36.1 — Run Center ECC discovery hotfix + OMC/OMX guide cards](https://github.com/cmblir/LazyClaude/releases/tag/v2.36.1)
+- [cmblir pushed PathSentinel](https://github.com/cmblir/PathSentinel/compare/6790612599...64ce1d6bad)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/7a4a63903b...b058067ae7)
+- [cmblir created a branch](https://github.com/cmblir/LazyClaude/compare/0000000000...073fe55ca6)
+- [cmblir pushed PathSentinel](https://github.com/cmblir/PathSentinel/compare/9cee7dbc7d...6790612599)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/f3b88292a0...7a4a63903b)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
