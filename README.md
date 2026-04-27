@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [v2.42.2](https://github.com/cmblir/LazyClaude/releases/tag/v2.42.2)
-- [v2.42.1](https://github.com/cmblir/LazyClaude/releases/tag/v2.42.1)
-- [v2.42.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.42.0)
-- [v2.41.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.41.0)
-- [v2.40.5](https://github.com/cmblir/LazyClaude/releases/tag/v2.40.5)
+- [cmblir pushed Memex](https://github.com/cmblir/Memex/compare/5ffc52e47a...986a78bebc)
+- [cmblir pushed PathSentinel](https://github.com/cmblir/PathSentinel/compare/6790612599...64ce1d6bad)
+- [cmblir pushed LazyClaude](https://github.com/cmblir/LazyClaude/compare/7a4a63903b...b058067ae7)
+- [cmblir created a branch](https://github.com/cmblir/LazyClaude/compare/0000000000...073fe55ca6)
+- [cmblir pushed PathSentinel](https://github.com/cmblir/PathSentinel/compare/9cee7dbc7d...6790612599)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
