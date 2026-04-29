@@ -51,11 +51,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Arch Linux] yay 설치해서 편하게 라이브러리 설치하는 방법](https://cmblir.github.io/spring-aop/)
-- [[JAVA] 스프링 순환 종속성 문제](https://cmblir.github.io/spring-aop/)
-- [[JAVA] 자바가 파이썬과 다른 첫번째 이유](https://cmblir.github.io/javv-diffrent/)
-- [[JAVA] 프로그래밍 언어의 기본](https://cmblir.github.io/java-first/)
-- [[데이터베이스] ER&lpar;Entity Relationship&rpar;과 ERD &lpar;Entity Relationship Diagram&rpar;](https://cmblir.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/ERD/)
+- [[AI 활용법 1] 정직성 — AI에게 맡길 때 가장 먼저 합의해야 하는 것](https://cmblir.github.io/ai%20%ED%99%9C%EC%9A%A9%EB%B2%95/ai-guide-1-truthfulness/)
+- [[AI 활용법 10] 모바일 퍼스트와 접근성 — AI에게 _기본값_ 으로 시키는 법](https://cmblir.github.io/ai%20%ED%99%9C%EC%9A%A9%EB%B2%95/ai-guide-10-mobile-a11y/)
+- [[AI 활용법 11] 보안과 시크릿 관리 — 코드보다 먼저 새는 것은 프롬프트다](https://cmblir.github.io/ai%20%ED%99%9C%EC%9A%A9%EB%B2%95/ai-guide-11-security/)
+- [[AI 활용법 12] 문서화 3계층 — 주석 · 커밋 · 노트, 무엇을 어디에 쓰나](https://cmblir.github.io/ai%20%ED%99%9C%EC%9A%A9%EB%B2%95/ai-guide-12-docs-three-layers/)
+- [[AI 활용법 13] Tool 사용 전략 — 검색 · MCP · 코드 실행, 언제 어느 것](https://cmblir.github.io/ai%20%ED%99%9C%EC%9A%A9%EB%B2%95/ai-guide-13-tool-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🌱 Currently reading & thinking about
