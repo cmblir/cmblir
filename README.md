@@ -78,5 +78,3 @@ I'm happy to talk about:
 📬 [email](mailto:sodlalwl14@gmail.com) · 🔗 [linkedin](https://linkedin.com/in/sodlalwl14) · 🌐 [website](https://cmblir.github,io) · 🐦 [threads](https://www.threads.com/@cmblir.ai)
 
 ---
-
-![snake gif](https://github.com/cmblir/cmblir/blob/output/github-contribution-grid-snake.gif)
