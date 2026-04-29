@@ -79,4 +79,4 @@ I'm happy to talk about:
 
 ---
 
-<sub>This README updates itself, mostly. The opinions update slower.</sub>
+![snake gif](https://github.com/cmblir/cmblir/blob/output/github-contribution-grid-snake.gif)
