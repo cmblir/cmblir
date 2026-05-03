@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v2.71.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.71.0)
+- [v2.70.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.70.0)
 - [v2.69.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.69.0)
 - [v2.68.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.68.0)
 - [v2.67.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.67.0)
-- [v2.54.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.54.0)
-- [v2.53.0](https://github.com/cmblir/LazyClaude/releases/tag/v2.53.0)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
