@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v3.99.53 — Goal-chain workflow](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.53)
 - [v3.99.50](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.50)
 - [Memex v0.1.0](https://github.com/cmblir/Memex/releases/tag/v0.1.0)
 - [v3.99.47 — Real-time token usage tracking](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.47)
 - [v3.99.13](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.13)
-- [v3.99.12](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.12)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
