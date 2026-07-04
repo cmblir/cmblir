@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v3.99.62 — Auto-resume watchdog](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.62)
 - [v3.99.61 — Desktop pet: settings, calm roaming, bubbles, chat](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.61)
 - [v3.99.60 — Desktop pet &lpar;macOS&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.60)
 - [v3.99.59 — Auto-resume overnight-stall fixes](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.59)
 - [v3.99.58 — Goal-chain run observability polish](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.58)
-- [v3.99.57 — Editor polish + goal-chain docs/e2e](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.57)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
