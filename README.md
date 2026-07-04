@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v3.99.59 — Auto-resume overnight-stall fixes](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.59)
 - [v3.99.58 — Goal-chain run observability polish](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.58)
 - [v3.99.57 — Editor polish + goal-chain docs/e2e](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.57)
 - [v3.99.56 — Goal-chain scaffold + template + DECIDE notify](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.56)
 - [v3.99.55 — Auto-generate the master plan](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.55)
-- [v3.99.54 — Paste-JSON workflow import](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.54)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
