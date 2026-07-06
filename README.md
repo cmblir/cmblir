@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
-- [v3.99.66 — Auto-resume wakes survive server death](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.66)
-- [v3.99.65 — Mascot removal + past-bindings history](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.65)
-- [v3.99.64 — Pet: dashboard-identical helper window](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.64)
-- [v3.99.63 — Auto-resume: 26h-park fix, idleResume, history](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.63)
-- [v3.99.62 — Auto-resume watchdog](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.62)
+- [v3.99.74 — Auto-resume resumes your live terminal](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.74)
+- [v3.99.73 — RunCat-style menu bar + mascot picker](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.73)
+- [v3.99.72 — Dashboard helper restored](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.72)
+- [v3.99.71 — Pet hover glow](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.71)
+- [v3.99.70 — Pet: traffic lights, title-bar walk, hover](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.70)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
