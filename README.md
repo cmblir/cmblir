@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v3.99.78 — Desktop pet lag fixes](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.78)
+- [v3.99.77 — Prime terminal permission at bind time](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.77)
+- [v3.99.76 — Auto-resume injects the open terminal precisely](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.76)
 - [v3.99.75 — Auto-resume terminal advisory](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.75)
 - [v3.99.74 — Auto-resume resumes your live terminal](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.74)
-- [v3.99.73 — RunCat-style menu bar + mascot picker](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.73)
-- [v3.99.72 — Dashboard helper restored](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.72)
-- [v3.99.71 — Pet hover glow](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.71)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
