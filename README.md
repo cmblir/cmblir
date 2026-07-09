@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v4.0.1](https://github.com/cmblir/LazyClaude/releases/tag/v4.0.1)
+- [v4.0.0 — cumulative feature milestone](https://github.com/cmblir/LazyClaude/releases/tag/v4.0.0)
 - [Memex v0.1.0](https://github.com/cmblir/Memex/releases/tag/v0.1.0)
 - [v3.99.78 — Desktop pet lag fixes](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.78)
 - [v3.99.77 — Prime terminal permission at bind time](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.77)
-- [v3.99.76 — Auto-resume injects the open terminal precisely](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.76)
-- [v3.99.75 — Auto-resume terminal advisory](https://github.com/cmblir/LazyClaude/releases/tag/v3.99.75)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
