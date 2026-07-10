@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [v4.6.0 — dist/lc-nav.js + apps/zclaude package](https://github.com/cmblir/LazyClaude/releases/tag/v4.6.0)
 - [v4.5.0 — workflow node registry extracted to dist/lc-wf-types.js](https://github.com/cmblir/LazyClaude/releases/tag/v4.5.0)
 - [v4.4.0 — i18n helpers extracted to dist/lc-i18n.js](https://github.com/cmblir/LazyClaude/releases/tag/v4.4.0)
 - [v4.3.0 — dist/lc-utils.js extraction &lpar;app.js modularization step 1&rpar;](https://github.com/cmblir/LazyClaude/releases/tag/v4.3.0)
 - [v4.2.0 — Workflow gallery + XSS sweep + cross-platform scaffolds](https://github.com/cmblir/LazyClaude/releases/tag/v4.2.0)
-- [v4.1.0 — Notification hook + rubric fan-out goal + grader](https://github.com/cmblir/LazyClaude/releases/tag/v4.1.0)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
