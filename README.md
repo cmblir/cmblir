@@ -42,11 +42,11 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [Memex v0.2.1](https://github.com/cmblir/Memex/releases/tag/v0.2.1)
+- [Memex v0.2.0 — Graph universe](https://github.com/cmblir/Memex/releases/tag/v0.2.0)
 - [v4.7.0 — zclaude per-model 429 fallback + true streaming](https://github.com/cmblir/LazyClaude/releases/tag/v4.7.0)
 - [v4.6.1](https://github.com/cmblir/LazyClaude/releases/tag/v4.6.1)
 - [v4.6.0 — dist/lc-nav.js + apps/zclaude package](https://github.com/cmblir/LazyClaude/releases/tag/v4.6.0)
-- [v4.5.0 — workflow node registry extracted to dist/lc-wf-types.js](https://github.com/cmblir/LazyClaude/releases/tag/v4.5.0)
-- [v4.4.0 — i18n helpers extracted to dist/lc-i18n.js](https://github.com/cmblir/LazyClaude/releases/tag/v4.4.0)
 <!-- LATEST-RELEASES:END -->
 
 #### 📝 Latest blog posts
