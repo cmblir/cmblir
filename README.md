@@ -42,6 +42,7 @@ I'm not religious about tools, but here's what's usually on my screen:
 
 #### 📦 Latest releases
 <!-- LATEST-RELEASES:START -->
+- [myco v0.3.0](https://github.com/cmblir/Myco/releases/tag/v0.3.0)
 - [Memex v0.2.2 — large-graph fixes](https://github.com/cmblir/Myco/releases/tag/v0.2.2)
 - [Memex v0.2.1 — Cosmic-scale LOD](https://github.com/cmblir/Myco/releases/tag/v0.2.1)
 - [Memex v0.2.0 — Graph universe](https://github.com/cmblir/Myco/releases/tag/v0.2.0)
